@@ -86,4 +86,4 @@ let removeMiddle = (itCompanies.length() - 1 /2).shift()
 itCompanies.pop()
 
 // Remove all IT companies
-itCompanies.slice(0, itCompanies.length() - 1)
+itCompanies.slice(0, itCompanies.length())
