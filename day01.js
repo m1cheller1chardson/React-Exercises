@@ -85,6 +85,7 @@ itCompanies.pop()
 
 // Remove all IT companies
 itCompanies.slice(0, itCompanies.length())
+<<<<<<< HEAD
 
 // First remove all the punctuations and change the string to array and count the number of words in the array
 // ["I", "love", "teaching", "and", "empowering", "people", "I", "teach", "HTML", "CSS", "JS", "React", "Python"] - 13
@@ -144,3 +145,5 @@ const backEnd = ['Node', 'Express', 'MongoDB']
 
 console.log(fullStack)
 ["HTML", "CSS", "JS", "React", "Redux", "Node", "Express", "MongoDB"]
+=======
+>>>>>>> a175050e9de3f2b9c8fd80f39786115e9fb02892
